@@ -1,0 +1,11 @@
+# NLP Engine Core Dependencies (Member 1)
+# Lightweight core libraries for schema enforcement & data handling
+pydantic>=2.5.0
+pytest>=8.0.0
+
+# Proposed future ML packages (to be installed when developing actual model pipelines):
+# torch>=2.0.0
+# transformers>=4.35.0
+# sentence-transformers>=2.2.0
+# indic-nlp-library>=0.92
+# scikit-learn>=1.3.0
